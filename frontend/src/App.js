@@ -15,10 +15,10 @@ function App() {
         <div className="pages">
           <Navbar></Navbar>
           <Routes>
-            <Route 
+            {/* <Route 
               path='/' 
-              element={ user ? <Home/> : <Navigate to='/'/>}
-            />
+              element={ user ? <Home/> : <Navigate to='/login'/>}
+            /> */}
 
             <Route 
               path='/login' 
