@@ -1,5 +1,5 @@
 {
-  "proxy": "https://workout-buddy-tkhv.onrender.com",
+  "proxy": "https://deploy-workout.onrender.com",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
